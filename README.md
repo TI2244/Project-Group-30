@@ -1,6 +1,8 @@
 # Project-Group-30
 Section: IEORE4501_001_2021_3 - TOOLS FOR ANALYTICS
+
 Group name: 30
+
 Group project of **Nasreen Khan (uni - nak2160)** and **Timur Iskakov (uni - ti2244)**
 
 We have created two Juniper notebooks:
