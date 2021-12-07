@@ -1,9 +1,6 @@
 # Project-Group-30
 Group name: 30
-Group project of **Nasreen Khan (uni - nak2160)** and **Timur Iskakov (uni - ti2244)**.
-
-Your group name and section
-A list containing the UNI for each member on the team
+Group project of **Nasreen Khan (uni - nak2160)** and **Timur Iskakov (uni - ti2244)**
 
 
 We have created two Juniper notebooks:
